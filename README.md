@@ -20,5 +20,5 @@ You will find a file named `index.html` Open it and follow the guidance inscribe
 
 **Note:** While editing the template, ensure you have updated all `href`, img `src`, and `alt` attributes of links and images.
 
-Visit https://siddarthsrp-portfolio.netlify.app/ to see a deployed version of this template on Netlify.
+Visit https: https://dhanushhkportfolio.netlify.app/ to see a deployed version of this template on Netlify.
 "# Portfolio" 
